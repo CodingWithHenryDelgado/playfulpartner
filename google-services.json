@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025677292047",
+    "project_id": "playfulpal",
+    "storage_bucket": "playfulpal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025677292047:android:32eaa2c67f7ba988f6297a",
+        "android_client_info": {
+          "package_name": "com.codingwhenry.playfulpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025677292047-0sene49m3t44rl58eem34pv9f1039v4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwhenry.playfulpartner",
+            "certificate_hash": "62fbc51a1108eb20f629d7dc038421649ad67a0c"
+          }
+        },
+        {
+          "client_id": "1025677292047-ola8ljh7fqrefe6fjiq0457atsangof5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGp-GBVCAql5OTytpzIdx-O79-ZnSXQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025677292047-ola8ljh7fqrefe6fjiq0457atsangof5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
